@@ -1,17 +1,14 @@
 # signup_system
 This Project contains 2 modules
  
-Student Signup
 
 Record of students[Admin]
-
-
 In the first module,
 
 The level of students to signup is divided into two parts
 
-Prof.Lander -  Graduate
-Prof.Head    -   Under-Graduate
+# Graduate
+# Under-Graduate
 
 Student enters respective level and his/her B-ID and the reason to meet
 
